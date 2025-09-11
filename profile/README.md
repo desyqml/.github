@@ -8,14 +8,11 @@ Here we collect repositories associated to projects and useful resources.
 
 ## Projects List
 
-| Name | Link to repository | Web Page | Program/Framework |
-|---   |---|---|---|
-| QAG  |[GitHub]()| - | Python |
-| PSG  |[GitHub]()| - | Python |
-| clic |[GitHub]()| - | Python |
-| gen-eval |[GitHub]()| - | Python |
-| Pauli-Propagator |[GitHub]()| - | Python |
-| Multi Universal Approximator |[GitHub]()| - | Python |
+| | Name | Link to repository | Web Page | Program/Framework |
+|---|---   |---|---|---|
+| | clic |[GitHub]()| - | Python |
+| | Pauli-Propagator |[GitHub]()| - | Python |
+| | Multi Universal Approximator |[GitHub]()| - | Python |
 
 ## Resources
 
