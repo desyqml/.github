@@ -19,5 +19,5 @@ Here we collect repositories associated to projects and useful resources.
 | Name | Link to repository | Program/Framework |
 |---|---|---|
 | DESY-baposter   |[GitHub](https://github.com/SaverioMonaco/DESY-baposter)| LaTeX |
-| DESY-argueilles |[TODO]()| LaTeX |
-| DESY-SINTEF     |[TODO]()| LaTeX |
+| DESY-argueilles |[GitHub](https://github.com/SaverioMonaco/DESY-arguelles)| LaTeX |
+| DESY-SINTEF     |[GitHub](https://github.com/SaverioMonaco/DESY-SINTEF)| LaTeX |
