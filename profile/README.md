@@ -10,14 +10,14 @@ Here we collect repositories associated to projects and useful resources.
 
 | | Name | Link to repository | Web Page | Program/Framework |
 |---|---   |---|---|---|
-| | clic |[GitHub]()| - | Python |
-| | Pauli-Propagator |[GitHub]()| - | Python |
-| | Multi Universal Approximator |[GitHub]()| - | Python |
+| | clic |[GitHub](https://github.com/desyqml/clic)| - | Python |
+| | Pauli-Propagator |[GitHub](https://github.com/desyqml/Pauli-Propagator)| - | Python |
+| | Multi Universal Approximator |[GitHub](https://github.com/desyqml/Multi-Universal-Approximator)| - | Python |
 
 ## Resources
 
 | Name | Link to repository | Program/Framework |
 |---|---|---|
-| DESY-baposter   |[GitHub]()| LaTeX |
-| DESY-argueilles |[GitHub]()| LaTeX |
-| DESY-SINTEF     |[GitHub]()| LaTeX |
+| DESY-baposter   |[GitHub](https://github.com/SaverioMonaco/DESY-baposter)| LaTeX |
+| DESY-argueilles |[TODO]()| LaTeX |
+| DESY-SINTEF     |[TODO]()| LaTeX |
