@@ -21,3 +21,4 @@ Here we collect repositories associated to projects and useful resources.
 | DESY-baposter   |[GitHub](https://github.com/SaverioMonaco/DESY-baposter)| LaTeX |
 | DESY-argueilles |[GitHub](https://github.com/SaverioMonaco/DESY-arguelles)| LaTeX |
 | DESY-SINTEF     |[GitHub](https://github.com/SaverioMonaco/DESY-SINTEF)| LaTeX |
+| squantikz | [GitHub](https://github.com/SaverioMonaco/squantikz) | LaTeX |
