@@ -11,7 +11,6 @@ Here we collect repositories associated to projects and useful resources.
 | | Name | Link to repository | Web Page | Program/Framework |
 |---|---   |---|---|---|
 | | clic |[GitHub](https://github.com/desyqml/clic)| - | Python |
-| | Pauli-Propagator |[GitHub](https://github.com/desyqml/Pauli-Propagator)| - | Python |
 | | Multi Universal Approximator |[GitHub](https://github.com/desyqml/Multi-Universal-Approximator)| - | Python |
 
 ## Resources
@@ -21,4 +20,5 @@ Here we collect repositories associated to projects and useful resources.
 | DESY-baposter   |[GitHub](https://github.com/SaverioMonaco/DESY-baposter)| LaTeX |
 | DESY-argueilles |[GitHub](https://github.com/SaverioMonaco/DESY-arguelles)| LaTeX |
 | DESY-SINTEF     |[GitHub](https://github.com/SaverioMonaco/DESY-SINTEF)| LaTeX |
-| squantikz | [GitHub](https://github.com/SaverioMonaco/squantikz) | LaTeX |
+| squantikz |[GitHub](https://github.com/SaverioMonaco/squantikz)| LaTeX |
+| poslike |[Github](https://github.com/SaverioMonaco/poslike) | LaTeX |
