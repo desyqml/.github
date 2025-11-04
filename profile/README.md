@@ -22,3 +22,40 @@ Here we collect repositories associated to projects and useful resources.
 | DESY-SINTEF     |[GitHub](https://github.com/SaverioMonaco/DESY-SINTEF)| LaTeX |
 | squantikz |[GitHub](https://github.com/SaverioMonaco/squantikz)| LaTeX |
 | poslike |[Github](https://github.com/SaverioMonaco/poslike) | LaTeX |
+
+## Authors
+
+**Saverio Monaco**  
+ORCID: [0000-0001-8784-5011](https://orcid.org/0000-0001-8784-5011)  
+Affiliations:  
+- RWTH Aachen University, Aachen 52062, Germany  
+- Deutsches Elektronen-Synchrotron, Hamburg 22607, Germany  
+
+---
+
+**Jamal Slim**  
+ORCID: [0000-0002-9418-8459](https://orcid.org/0000-0002-9418-8459)  
+Affiliation:  
+- Deutsches Elektronen-Synchrotron, Hamburg 22607, Germany  
+
+---
+
+**Florian Rehm**  
+ORCID: [0000-0002-8337-0239](https://orcid.org/0000-0002-8337-0239)  
+Affiliation:  
+- European Organization for Nuclear Research (CERN), Geneva 1211, Switzerland  
+
+---
+
+**Dirk Krücker**  
+ORCID: [0000-0003-1610-8844](https://orcid.org/0000-0003-1610-8844)  
+Affiliation:  
+- Deutsches Elektronen-Synchrotron, Hamburg 22607, Germany  
+
+---
+
+**Kerstin Borras**  
+ORCID: [0000-0003-1111-249X](https://orcid.org/0000-0003-1111-249X)  
+Affiliations:  
+- RWTH Aachen University, Aachen 52062, Germany  
+- Deutsches Elektronen-Synchrotron, Hamburg 22607, Germany  
