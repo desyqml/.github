@@ -11,6 +11,7 @@ Here we collect repositories associated to projects and useful resources.
 | | Name | Link to repository | Web Page | Program/Framework |
 |---|---   |---|---|---|
 | | clic |[GitHub](https://github.com/desyqml/clic)| - | Python |
+| | gen-eval |[GitHub](https://github.com/desyqml/gen_eval)| - | Python |
 | | Multi Universal Approximator |[GitHub](https://github.com/desyqml/Multi-Universal-Approximator)| - | Python |
 
 ## Resources
