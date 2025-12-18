@@ -30,14 +30,14 @@ Here we collect repositories associated to projects and useful resources.
 ORCID: [0000-0001-8784-5011](https://orcid.org/0000-0001-8784-5011)  
 Affiliations:  
 - RWTH Aachen University, Aachen 52062, Germany  
-- Deutsches Elektronen-Synchrotron, Hamburg 22607, Germany  
+- Deutsches Elektronen-Synchrotron DESY, 22603 Hamburg, Germany
 
 ---
 
 **Jamal Slim**  
 ORCID: [0000-0002-9418-8459](https://orcid.org/0000-0002-9418-8459)  
 Affiliation:  
-- Deutsches Elektronen-Synchrotron, Hamburg 22607, Germany  
+- Deutsches Elektronen-Synchrotron DESY, 22603 Hamburg, Germany
 
 ---
 
@@ -51,7 +51,8 @@ Affiliation:
 **Dirk Krücker**  
 ORCID: [0000-0003-1610-8844](https://orcid.org/0000-0003-1610-8844)  
 Affiliation:  
-- Deutsches Elektronen-Synchrotron, Hamburg 22607, Germany  
+- Deutsches Elektronen-Synchrotron DESY, 22603 Hamburg, Germany
+
 
 ---
 
@@ -59,4 +60,4 @@ Affiliation:
 ORCID: [0000-0003-1111-249X](https://orcid.org/0000-0003-1111-249X)  
 Affiliations:  
 - RWTH Aachen University, Aachen 52062, Germany  
-- Deutsches Elektronen-Synchrotron, Hamburg 22607, Germany  
+- Deutsches Elektronen-Synchrotron DESY, 22603 Hamburg, Germany   
