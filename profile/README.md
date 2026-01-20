@@ -12,6 +12,7 @@ Here we collect repositories associated to projects and useful resources.
 |---|---   |---|---|---|
 | | clic |[GitHub](https://github.com/desyqml/clic)| - | Python |
 | | gen-eval |[GitHub](https://github.com/desyqml/gen_eval)| - | Python |
+| | Pauli-Propagator |[GitHub](https://github.com/desyqml/Pauli-Propagator)| - | Python |
 | | Multi Universal Approximator |[GitHub](https://github.com/desyqml/Multi-Universal-Approximator)| - | Python |
 
 ## Resources
@@ -23,6 +24,7 @@ Here we collect repositories associated to projects and useful resources.
 | DESY-SINTEF     |[GitHub](https://github.com/SaverioMonaco/DESY-SINTEF)| LaTeX |
 | squantikz |[GitHub](https://github.com/SaverioMonaco/squantikz)| LaTeX |
 | poslike |[Github](https://github.com/SaverioMonaco/poslike) | LaTeX |
+| desyclock |[Github](https://github.com/SaverioMonaco/desyclock) | bash |
 
 ## Authors
 
