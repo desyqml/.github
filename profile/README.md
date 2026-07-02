@@ -12,8 +12,9 @@ Here we collect repositories associated to projects and useful resources.
 |---|---   |---|---|---|
 | | clic |[GitHub](https://github.com/desyqml/clic)| - | Python |
 | | gen-eval |[GitHub](https://github.com/desyqml/gen_eval)| - | Python |
-| | Pauli-Propagator |[GitHub](https://github.com/desyqml/Pauli-Propagator)| - | Python |
+| | Pauli-Propagator |[GitHub](https://github.com/desyqml/Pauli-Propagator)| https://pauli-propagator.readthedocs.io/ | Python |
 | | Multi Universal Approximator |[GitHub](https://github.com/desyqml/Multi-Universal-Approximator)| - | Python |
+| | qfan_project |[GitHub](https://github.com/jamalslim/qfan_project)| - | Python |
 
 ## Resources
 
@@ -38,6 +39,13 @@ Affiliations:
 
 **Jamal Slim**  
 ORCID: [0000-0002-9418-8459](https://orcid.org/0000-0002-9418-8459)  
+Affiliation:  
+- Deutsches Elektronen-Synchrotron DESY, 22603 Hamburg, Germany
+
+---
+
+**Ran Xue**  
+ORCID: [0000-0002-2009-6279](https://orcid.org/0000-0002-2009-6279)  
 Affiliation:  
 - Deutsches Elektronen-Synchrotron DESY, 22603 Hamburg, Germany
 
