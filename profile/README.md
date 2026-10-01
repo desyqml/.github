@@ -16,6 +16,23 @@ Here we collect repositories associated to projects and useful resources.
 | | Multi Universal Approximator |[GitHub](https://github.com/desyqml/Multi-Universal-Approximator)| - | Python |
 | | qfan_project |[GitHub](https://github.com/jamalslim/qfan_project)| - | Python |
 
+## Papers
+
+### Saverio Monaco
+
+| Title | Status |  URL |
+|---|---|---|
+| Symbolic Pauli Propagation for Gradient-Enabled Pre-Training of Quantum Circuits | Journal Review | [arXiv](https://arxiv.org/abs/2512.16674) |
+| Classical Pre-Training of Large Shallow Parametrized Quantum Circuits through Pauli Propagation and deployment on Quantum Hardware | Internal Review | |
+| Study of Ansätze under Pauli Propagation | Writing | |
+
+### Jamal Slim
+
+| Title | Status |  URL |
+|---|---|---|
+| A Coherent Memory Register for Sequential Quantum Generative Modeling, with Application to Calorimeter Showers | Journal Review | [arXiv](https://arxiv.org/abs/2609.23050) |
+
+
 ## Resources
 
 | Name | Link to repository | Program/Framework |
