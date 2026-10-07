@@ -30,8 +30,12 @@ Here we collect repositories associated to projects and useful resources.
 
 | Title | Status |  URL |
 |---|---|---|
-| A Coherent Memory Register for Sequential Quantum Generative Modeling, with Application to Calorimeter Showers | Journal Review | [arXiv](https://arxiv.org/abs/2609.23050) |
-
+| A Coherent Memory Register for Sequential Quantum Generative Modeling, with Application to Calorimeter Showers | Writing | [arXiv](https://arxiv.org/abs/2609.23050) |
+| Quantum Feature Amplification Network (QFAN) as An Autoregressive Quantum Generative Model | Journal Review | [arXiv](https://arxiv.org/abs/2605.16044) |
+| Interferometric Quantum Polynomial Chaos Expansion as a Generative Model for Calorimeter Shower Simulation | Journal Review | [arXiv](https://arxiv.org/abs/2608.05405) |
+| Genuine Multipartite Nonlocality Is Fermionic Magic | Journal Review | [arXiv](https://arxiv.org/abs/2609.39411) |
+| Memory Separations from a Collective-Spin Quantum Register | Journal Review | [arXiv](https://arxiv.org/abs/2610.08038) |
+| An IQP Born Machine for Calorimeter Image Generation at 64 Qubits with Compiled-IQP Deployment | Journal Review | [arXiv](https://arxiv.org/abs/2605.27735) |
 
 ## Resources
 
