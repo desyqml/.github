@@ -72,13 +72,6 @@ Affiliation:
 
 ---
 
-**Florian Rehm**  
-ORCID: [0000-0002-8337-0239](https://orcid.org/0000-0002-8337-0239)  
-Affiliation:  
-- European Organization for Nuclear Research (CERN), Geneva 1211, Switzerland  
-
----
-
 **Dirk Krücker**  
 ORCID: [0000-0003-1610-8844](https://orcid.org/0000-0003-1610-8844)  
 Affiliation:  
